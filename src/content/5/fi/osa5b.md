@@ -519,7 +519,7 @@ Eriytä uuden blogin luomisesta huolehtiva lomake omaan komponenttiinsa (jos et 
 
 Komponentin tulee siis toimia samaan tapaan kuin tämän osan [materiaalin](https://fullstack-hy2020.github.io/osa5/props_children_ja_proptypet#lomakkeiden-tila) komponentin <i>NoteForm</i>.
 
-#### 5.7* blogilistan frontend, step7
+#### 5.7 blogilistan frontend, step7
 
 Lisää yksittäiselle blogille nappi, jonka avulla voi kontrolloida näytetäänkö kaikki blogiin liittyvät tiedot.
 
@@ -559,7 +559,7 @@ const Blog = ({ blog }) => {
 
 **Huom2:** vaikka tämän tehtävän toiminnallisuus on melkein samanlainen kuin komponentin <i>Togglable</i> tarjoama toiminnallisuus, ei Togglable kuitenkaan sovi tarkoitukseen sellaisenaan. Helpoin ratkaisu lienee lisätä blogille tila, joka kontrolloi sitä missä muodossa blogi näytetään.
 
-#### 5.8*: blogilistan frontend, step8
+#### 5.8: blogilistan frontend, step8
 
 Toteuta like-painikkeen toiminnallisuus. Like lisätään backendiin blogin yksilöivään urliin tapahtuvalla _PUT_-pyynnöllä.
 
